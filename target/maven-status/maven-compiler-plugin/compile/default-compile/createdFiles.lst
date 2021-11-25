@@ -1,0 +1,5 @@
+com/example/demo/demo123/Repository/FruitsRepository.class
+com/example/demo/demo123/Controller/FruitsController.class
+com/example/demo/demo123/Demo123Application.class
+com/example/demo/demo123/entities/Fruits.class
+com/example/demo/demo123/exception/ResourceNotFoundException.class
